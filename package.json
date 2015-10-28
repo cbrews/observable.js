@@ -1,0 +1,23 @@
+{
+  "name": "observable.js",
+  "version": "1.0.0",
+  "description": "An extension to oo.js to create an observerable object type",
+  "main": "observable.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "oo.js": "git+https://github.com/christhebrews/oo.js.git"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christhebrews/observable.js.git"
+  },
+  "author": "Chris Brousesau <brousseau.chris@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christhebrews/observable.js/issues"
+  },
+  "homepage": "https://github.com/christhebrews/observable.js#readme"
+}
