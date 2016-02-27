@@ -7,17 +7,17 @@
     "test": "test"
   },
   "dependencies": {
-    "oo.js": "git+https://github.com/christhebrews/oo.js.git"
+    "oo.js": "git+https://github.com/cbrews/oo.js.git"
   },
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/christhebrews/observable.js.git"
+    "url": "git+https://github.com/cbrews/observable.js.git"
   },
   "author": "Chris Brousesau <brousseau.chris@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/christhebrews/observable.js/issues"
+    "url": "https://github.com/cbrews/observable.js/issues"
   },
-  "homepage": "https://github.com/christhebrews/observable.js#readme"
+  "homepage": "https://github.com/cbrews/observable.js#readme"
 }
