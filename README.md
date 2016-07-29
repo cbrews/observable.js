@@ -1,5 +1,5 @@
 # Observable.js
-A instantiable javascript class with a simple observer pattern interface.  Built on top of https://github.com/christhebrews/oo.js.
+A instantiable javascript class with a simple observer pattern interface.  Built on top of https://github.com/cbrews/oo.js.
 ## API
 #### `Observable.on(event, fn)`
 Attach a function to an event string.
